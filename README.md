@@ -12,4 +12,4 @@ Merge messy bookmark exports from Chrome, Brave and Raindrop into one clean file
 
 Your files are processed in the browser session and never stored.
 
-Built with Python, pandas and Streamlit. Week 1 of my 52-week build challenge.
+Built with Python, pandas and Streamlit.
